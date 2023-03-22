@@ -76,3 +76,38 @@ C:\Users\Admin\Documents\ITSOURCECODE\Leave C#\leavemanagementsystem1.1 (1)\leav
 C:\Users\Admin\Documents\ITSOURCECODE\Leave C#\leavemanagementsystem1.1 (1)\leavemanagementsystem1.1\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.csproj.GenerateResource.Cache
 C:\Users\Admin\Documents\ITSOURCECODE\Leave C#\leavemanagementsystem1.1 (1)\leavemanagementsystem1.1\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.exe
 C:\Users\Admin\Documents\ITSOURCECODE\Leave C#\leavemanagementsystem1.1 (1)\leavemanagementsystem1.1\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.pdb
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\LeaveManagementSystem1.1.exe.config
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\LeaveManagementSystem1.1.exe
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\LeaveManagementSystem1.1.pdb
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\stdole.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.csproj.AssemblyReference.cache
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.Form1.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmApplyLeave.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmEmployee.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmHistory.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmListofEmployee.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmLogin.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmMaintenance.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmPreview.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmReports.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.frmUser.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1._1.Properties.Resources.resources
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.csproj.GenerateResource.cache
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.csproj.CoreCompileInputs.cache
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.csproj.CopyComplete
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.exe
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.pdb
