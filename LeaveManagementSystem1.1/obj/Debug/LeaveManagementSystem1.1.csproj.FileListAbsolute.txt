@@ -111,3 +111,7 @@ C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.
 C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.csproj.CopyComplete
 C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.exe
 C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\obj\Debug\LeaveManagementSystem1.1.pdb
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\YASSER\Documents\GitHub\Leave-Management-System\LeaveManagementSystem1.1\bin\Debug\CrystalDecisions.Windows.Forms.dll
