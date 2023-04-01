@@ -1,5 +1,27 @@
 # Leave-Management-System
  The Leave Management System Project In C# With Source Code is developed using C# programming language, this leave management system source code in c# is designed to monitor every employee’s behavior in an organization, especially their leave of absence.
+ 
+ These are the following features of the system
+
+* List of Employees
+* dd New Employee
+* Edit Employee Information
+* Print All Employee
+* Print Remaining Leaves of Employee
+* Apply Leave of Absence
+* History of Approved Leaves
+* Manage Position of Employees
+* Manage Departments
+ 
+ # Instaliation DOC:
+
+1. install xampp and visual studion 2022
+1. install crystal reports for visual studio 2022 from this website:
+https://www.tektutorialshub.com/crystal-reports/crystal-reports-download-for-visual-studio/
+2. if you aim error crystal report when run . go to project and click on tap **solution explorer** and "references"
+and remove all crystal . then add new **references **and from **extension **add the same crystal that removed .
+3. Create database , click on databases tab and Create database naming **“db_leave”.**
+4. Import Click on browse file and select “db_leave.sql” file which is inside the “LeaveSystem” folder and then click “Go“.
 
 ![Screenshot 2023-04-01 142606](https://user-images.githubusercontent.com/18195950/229286046-b793afa3-424f-429f-a7e5-0610020fb081.png)
 ![Screenshot 2023-04-01 142551](https://user-images.githubusercontent.com/18195950/229286054-d451ac05-14f7-4585-9f68-02fb7312f1b3.png)
