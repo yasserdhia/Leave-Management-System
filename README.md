@@ -22,6 +22,11 @@ https://www.tektutorialshub.com/crystal-reports/crystal-reports-download-for-vis
 and remove all crystal . then add new **references **and from **extension **add the same crystal that removed .
 3. Create database , click on databases tab and Create database naming **“db_leave”.**
 4. Import Click on browse file and select “db_leave.sql” file which is inside the “LeaveSystem” folder and then click “Go“.
+5. Run Project enjoy . 
+
+**Username: admin**
+
+**Password: admin**
 
 ![Screenshot 2023-04-01 142606](https://user-images.githubusercontent.com/18195950/229286046-b793afa3-424f-429f-a7e5-0610020fb081.png)
 ![Screenshot 2023-04-01 142551](https://user-images.githubusercontent.com/18195950/229286054-d451ac05-14f7-4585-9f68-02fb7312f1b3.png)
